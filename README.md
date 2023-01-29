@@ -18,6 +18,7 @@
 
 <h2> 📰 Agile Articles: </h2>
 
+- [Top Agile Book Recommendations - Scrum, DevOps, Lean and Agile Coaching](www.helenaolivierguedes.com)
 - [How to Set Agile Metrics That Get Results](www.helenaolivierguedes.com)
 - [Top 5 Agile Best Practices for Technical Teams](www.helenaolivierguedes.com)
 - [How To Navigate Organizational Politics During an Agile Transformation](www.helenaolivierguedes.com)
