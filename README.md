@@ -1,18 +1,22 @@
-<h1>Hi, I'm Helena! <br/><a href="https://github.com/helenaolivierguedes">Scrum Master</a> and <a href="https://www.linkedin.com/in/helenaolivierguedes/">Agile Project Manager for Technical Teams</a>
+<h1> Hi, I'm Helena! :wave: <br/><a href="https://github.com/helenaolivierguedes">Scrum Master</a> and <a href="https://www.linkedin.com/in/helenaolivierguedes/">Agile Project Manager for Technical Teams</a>
 
-<h2> Software Development Projects:</h2>
+<h2> 👩‍💻 Software Development Projects:</h2>
 
+- <b>DevOps</b>
+  - [Building a Blog Site for the "Work Smarter" community with a CI/CD pipeline (Ghost, Digital Ocean, GitHub Actions, AWS) *This is a Community Project* ](https://github.com/helenaolivierguedes)
 - <b>Personal Portfolio & Blog site</b>
   - [Portfolio Site Hosted on Ghost](https://github.com/helenaolivierguedes)
 
-<h2> Data Science Projects:</h2>
+<h2> 👩‍🔬 Data Science Projects:</h2>
 
+- <b>NASA Exoplanet Watch</b>
+  - [Observing transitin exoplaners, reducing and analyzing data with EXOTIC to create transiting exoplanet light curves *This is a Science Citizen Community Project*](https://github.com/helenaolivierguedes)
 - <b>Python</b>
   - [Python Project (Pandas, Numptys)](https://github.com/helenaolivierguedes)
 - <b>IBM Data Science Certification</b>
   - [(Labs with Jupyter Notebooks & Python)](https://github.com/helenaolivierguedes)
 
-<h2> Agile Articles: </h2>
+<h2> 📰 Agile Articles: </h2>
 
 - [How to Set Agile Metrics That Get Results](www.helenaolivierguedes.com)
 - [Top 5 Agile Best Practices for Technical Teams](www.helenaolivierguedes.com)
