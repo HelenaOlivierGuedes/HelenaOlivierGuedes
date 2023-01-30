@@ -2,20 +2,20 @@
 
 <h2> 👩‍💻 Software Development Projects:</h2>
 
-- <b>DevOps</b>
-  - [Building a Blog Site for the "Work Smarter" community with a CI/CD pipeline (Ghost, Digital Ocean, GitHub Actions, AWS) *This is a Community Project* ](https://github.com/helenaolivierguedes)
 - <b>Personal Portfolio & Blog site</b>
   - [Portfolio Site Hosted on Ghost](https://github.com/helenaolivierguedes)
+- <b>DevOps</b>
+  - [Building a Blog Site for the "Work Smarter" community with a CI/CD pipeline (Ghost, Digital Ocean, GitHub Actions, AWS) *This is a Community Project* ](https://github.com/helenaolivierguedes)
 
 <h2> 👩‍🔬 Data Science Projects:</h2>
 
-- <b>NASA Exoplanet Watch</b>
-  - [Observing transitin exoplaners, reducing and analyzing data with EXOTIC to create transiting exoplanet light curves *This is a Science Citizen Community Project*](https://github.com/helenaolivierguedes)
 - <b>Python</b>
   - [Python Project (Pandas, Numptys)](https://github.com/helenaolivierguedes)
 - <b>IBM Data Science Certification</b>
   - [(Labs with Jupyter Notebooks & Python)](https://github.com/helenaolivierguedes)
-
+- <b>NASA Exoplanet Watch</b>
+  - [Observing transitin exoplaners, reducing and analyzing data with EXOTIC to create transiting exoplanet light curves *This is a Science Citizen Community Project*](https://github.com/helenaolivierguedes)
+  
 <h2> 📰 Agile Articles: </h2>
 
 - [Top Agile Book Recommendations - Scrum, DevOps, Lean and Agile Coaching](www.helenaolivierguedes.com)
