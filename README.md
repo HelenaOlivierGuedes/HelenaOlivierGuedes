@@ -1,4 +1,9 @@
-<h1> Hi, I'm Helena! :wave: <br/><a href="https://github.com/helenaolivierguedes">Scrum Master</a> and <a href="https://www.linkedin.com/in/helenaolivierguedes/">Agile Project Manager for Technical Teams</a>
+<h1> Hi, I'm Helena! :wave: <br/><a href="https://github.com/helenaolivierguedes">Scrum Master</a>, Product Owner and <a href="https://www.linkedin.com/in/helenaolivierguedes/">Prince2 Practitioner Project Manager for Technical Teams.</a> 
+
+👩🏻‍💻Full time Scrum Master & Member of Senior Engineering Leadership team at Foot Anstey LLP
+🤹🏻‍♀️ Aspects of Product Ownership, Technical Project Management & Delivery Management form part of my role.
+🖥️ Studying a BSc(Hons) Computer Science part time at the University of Essex.
+🔎 Current Focus on Scientific, Technical & User Research Methods
 
 <h2> 👩‍💻 Software Development Projects:</h2>
 
